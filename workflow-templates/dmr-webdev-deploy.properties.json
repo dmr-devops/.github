@@ -1,8 +1,0 @@
-{
-    "name": "DMR Webdev Deploy",
-    "description": "DMR Web Development deployment via SCP",
-    "iconName": "upload-svgrepo-com",
-    "categories": [
-        "Go"
-    ]
-}

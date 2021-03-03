@@ -1,4 +1,4 @@
-name: DMR Web Development- Deploy via SCP
+name: Deploy via SCP
 
 on:
   push:

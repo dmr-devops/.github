@@ -1,0 +1,8 @@
+{
+    "name": "DMR DevOps SCP Deploy",
+    "description": "Deploy repository via SCP-SSH",
+    "iconName": "upload-svgrepo-com",
+    "categories": [
+        "Go"
+    ]
+}
