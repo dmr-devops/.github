@@ -1,0 +1,8 @@
+{
+    "name": "DMR DevOps React App SCP Deploy",
+    "description": "Build and deploy repository via SCP-SSH",
+    "iconName": "upload-svgrepo-com",
+    "categories": [
+        "Go"
+    ]
+}
