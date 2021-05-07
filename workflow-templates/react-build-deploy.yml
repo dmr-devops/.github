@@ -39,8 +39,3 @@ jobs:
         rm: true
         source: "."
         target: "${{ secrets.REMOTE_DIR }}#REPO NAME#"
-
-
-    strategy:
-      matrix:
-        node-version: [12.x]
