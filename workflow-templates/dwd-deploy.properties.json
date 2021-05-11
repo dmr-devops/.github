@@ -1,0 +1,9 @@
+
+{
+    "name": "DMR DevOps Portfolio Deploy",
+    "description": "Update website via SCP-SSH",
+    "iconName": "upload-svgrepo-com",
+    "categories": [
+        "Go"
+    ]
+}
